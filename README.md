@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Billy's github stats](https://github-readme-stats.vercel.app/api?username=cartel360&show_icons=true)](https://github.com/cartel360/github-readme-stats)
+[![Billy's github stats](https://github-readme-stats.vercel.app/api?username=cartel360&show_icons=true&count_private=true)](https://github.com/cartel360/github-readme-stats)
 
 
 I'm Billy, a software developer based in Nairobi Kenya.
