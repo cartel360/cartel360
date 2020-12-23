@@ -2,17 +2,7 @@
 
 [![Billy's github stats](https://github-readme-stats.vercel.app/api?username=cartel360&show_icons=true&count_private=true&theme=radical)](https://github.com/cartel360/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cartel360&layout=compact&theme=radical)](https://github.com/cartel360/github-readme-stats)
-
-[![Billy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cartel360&layout=compact&theme=radical)](https://github.com/cartel360/github-readme-stats)
-
-
-<a href="https://github.com/cartel360/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cartel360&show_icons=true&count_private=true&theme=radical" />
-</a>
-<a href="https://github.com/cartel360/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cartel360&layout=compact&theme=radical" />
-</a>
+<hr>
 
 
 I'm Billy, a software developer based in Nairobi Kenya.
@@ -24,6 +14,8 @@ in any projects presented to me.
 
 I also write tech articles to help my peers and others 
 know what I know in my blogsite at https://billyokeyo.codes
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cartel360&layout=compact&theme=radical)](https://github.com/cartel360/github-readme-stats)
 
 
 📌 - ⚡ Fun fact: Code runs through my blood system 🤯
@@ -61,7 +53,9 @@ You can find and get touch with me on these accounts!
 | [<img src="https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-512.png" alt="github logo" width="24">](https://github.com/cartel360) | [<img src="https://cdn.icon-icons.com/icons2/2201/PNG/512/linkedin_logo_square_icon_134016.png" alt="linkedin logo" width="24">](https://www.linkedin.com/in/billy-okeyo-aa2561195/) | [<img src="https://cdn1.iconfinder.com/data/icons/logos-and-brands-3/512/84_Dev_logo_logos-512.png" alt="dev logo" width="24">](https://dev.to/billy_de_cartel)| [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/1024px-Facebook_f_logo_%282019%29.svg.png" alt="facebook logo" width="24">](https://www.facebook.com/billy.dan.927) | [<img src="https://cdn2.iconfinder.com/data/icons/popular-social-media-flat/48/Popular_Social_Media-11-512.png" alt="twitter logo" width="24">](https://twitter.com/Billy_de_Cartel) | [<img src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/stackoverflow-512.png" alt="stack logo" width="24">](https://stackoverflow.com/users/13321230/billy-dan)
 |---|---|---|---|---|---|
 
+<hr>
 
+[![Billy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cartel360&theme=radical)](https://github.com/cartel360/github-readme-stats)
 
 
 You can find my portfolio here https://billyokeyo.me
