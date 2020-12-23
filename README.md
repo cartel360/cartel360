@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cartel360&layout=compact&theme=radical)](https://github.com/cartel360/github-readme-stats)
 
-[![Billy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cartel360)](https://github.com/cartel360/github-readme-stats)
+[![Billy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cartel360&layout=compact&theme=radical)](https://github.com/cartel360/github-readme-stats)
 
 
 <a href="https://github.com/cartel360/github-readme-stats">
