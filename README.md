@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Billy's github stats](https://github-readme-stats.vercel.app/api?username=cartel360)](https://github.com/cartel360/github-readme-stats)
+
+
 I'm Billy, a software developer based in Nairobi Kenya.
 I believe in providing solutions through code and currently
 I am majoring in web development (fullstack)
