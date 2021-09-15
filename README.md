@@ -29,7 +29,7 @@ know what I know in my blogsite at https://billyokeyo.codes
 <hr>
 
 <h1>
-<img  height="200px" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cartel360&layout=compact&theme=radical" >
+<img  height="200px" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cartel360&layout=compact&theme=radical" >
 
 <img align="right"  height="200px" width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=cartel360&theme=radical" >
          
