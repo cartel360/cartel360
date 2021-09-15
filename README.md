@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />, I'm Billy Okeyo
+</h1>
+ 
+
+<img align="right" alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=cartel360&theme=radical">
+
 [![Billy's github stats](https://github-readme-stats.vercel.app/api?username=cartel360&show_icons=true&count_private=true&theme=radical)](https://github.com/cartel360/github-readme-stats)
 
 <hr>
@@ -15,7 +24,14 @@ in any projects presented to me.
 I also write tech articles to help my peers and others 
 know what I know in my blogsite at https://billyokeyo.codes
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cartel360&layout=compact&theme=radical)](https://github.com/cartel360/github-readme-stats)
+<hr>
+
+<img align="left"  height="200px" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cartel360&layout=compact&theme=radical" >
+
+<img align="right"  height="200px" width="500" src="https://github-readme-stats.vercel.app/api/wakatime?username=cartel360&theme=radical" >
+
+<hr> <br/> <br/>
+
 
 
 📌 - ⚡ Fun fact: Code runs through my blood system 🤯
@@ -55,8 +71,11 @@ You can find and get touch with me on these accounts!
 
 <hr>
 
-[![Billy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cartel360&theme=radical)](https://github.com/cartel360/github-readme-stats)
 
+
+<p align="center">
+  <img src="https://github.com/cartel360/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 
 You can find my portfolio here https://billyokeyo.me
 <!--
