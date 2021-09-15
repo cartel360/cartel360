@@ -5,9 +5,11 @@
          height="45"
          width="45" />, I'm Billy Okeyo
 </h1>
- 
 
-<img align="right" alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=cartel360&theme=radical">
+<p> <img src="https://komarev.com/ghpvc/?username=cartel360&label=Profile%20views&color=0e75b6&style=flat" alt="ishikkkkaaaa" /> </p>
+<p>
+
+<img align="right" alt= "stats card" height="200px" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=cartel360&theme=radical">
 
 [![Billy's github stats](https://github-readme-stats.vercel.app/api?username=cartel360&show_icons=true&count_private=true&theme=radical)](https://github.com/cartel360/github-readme-stats)
 
@@ -26,9 +28,12 @@ know what I know in my blogsite at https://billyokeyo.codes
 
 <hr>
 
-<img align="left"  height="200px" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cartel360&layout=compact&theme=radical" >
+<h1>
+<img  height="200px" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cartel360&layout=compact&theme=radical" >
 
-<img align="right"  height="200px" width="500" src="https://github-readme-stats.vercel.app/api/wakatime?username=cartel360&theme=radical" >
+<img align="right"  height="200px" width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=cartel360&theme=radical" >
+         
+ </h1>
 
 <hr> <br/> <br/>
 
