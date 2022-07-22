@@ -1,59 +1,53 @@
-### Hi there 👋
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I'm Billy Okeyo
 </h1>
 
-<p> <img src="https://komarev.com/ghpvc/?username=cartel360&label=Profile%20views&color=0e75b6&style=flat" alt="ishikkkkaaaa" /> </p>
-<p>
+<p> <img src="https://komarev.com/ghpvc/?username=cartel360&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 
-<img align="right" alt= "stats card" height="200px" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=cartel360&theme=radical">
+```cli
+ • 😎 I'm Billy Okeyo.
+ • 👨🏾‍💻 I'm a Software Engineer.
+ • 🛠  I'm a Cloud DevOps Engineer.
+ • 😜 I'm a Mentor 
+```
 
-[![Billy's github stats](https://github-readme-stats.vercel.app/api?username=cartel360&show_icons=true&count_private=true&theme=radical)](https://github.com/cartel360/github-readme-stats)
+### :octocat: My stats
+<table>
+ <tr>
+    <a href="https://wakatime.com/@cartel360"><img src="https://wakatime.com/badge/user/71d9bc48-86b3-42f4-94b7-8920c0595cca.svg" alt="Total time coded since Jul 30 2021" /></a>
+  </tr>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=cartel360&show_icons=true&count_private=true&theme=github_dark" width="500px">
+</td>
+<td>
+<img alt= "stats card" width="500px" src="https://github-readme-streak-stats.herokuapp.com?user=cartel360&theme=github-dark&ring=386EDD&border=DDDDDD&dates=386EDD&stroke=DDDDDD">
+</td>
+</tr>
+</table>
+  <table>
+ 
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/cartel360/github-stats/master/generated/overview.svg#gh-dark-mode-only"  width="500px"/></td>
+    <td><img src="https://raw.githubusercontent.com/cartel360/github-stats/master/generated/languages.svg#gh-dark-mode-only" width="500px"/></td>
+  </tr>
+</table>
 
-<hr>
+<table>
+<tr>
+<td>
+  <img style="width:500px" src="https://wakatime.com/share/@cartel360/8f5f40d6-ec12-48d4-8e72-ea85d2de1d03.svg" />
+</td>
+<td>
+<img align="right" width="500px" src="https://github-readme-stats.vercel.app/api/wakatime?username=cartel360&theme=radical" >
+</td>
+</tr>
 
+</table>
 
-I'm Billy, a software developer based in Nairobi Kenya.
-I believe in providing solutions through code and currently
-I am majoring in web development (fullstack)
-
-I'm open to ideas and can work well in a team and colloborate
-in any projects presented to me.
-
-I also write tech articles to help my peers and others 
-know what I know in my blogsite at https://billyokeyo.codes
-
-<hr>
-
-<h1>
-<img  height="200px" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cartel360&layout=compact&theme=radical" >
-
-<img align="right"  height="200px" width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=cartel360&theme=radical" >
-         
- </h1>
-
-<hr> <br/> <br/>
-
-
-
-📌 - ⚡ Fun fact: Code runs through my blood system 🤯
-
-
-### Programming Languages/Frameworks 💻
-
-- Know/Using
-
-| [<img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" alt="Django logo" width="24">](https://www.djangoproject.com/)  | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="HTML logo" width="24">](#)  | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="CSS logo" width="24">](#)  |  [<img src="https://pluspng.com/img-png/bootstrap-logo-vector-png-bootstrap-logo-512.jpg" alt="Bootstrap logo" width="24">](https://getbootstrap.com/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="24">](https://www.python.org/) | [<img src="https://seeklogo.com/images/G/gatsby-logo-1A245AD37F-seeklogo.com.png" alt="Gatsby logo" width="24">](https://www.gatsbyjs.org/)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" width="24">](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [<img src="https://banner2.cleanpng.com/20190610/gou/kisspng-microsoft-azure-sql-database-microsoft-azure-sql-d-postani-spletni-razvijalec-izberite-svojo-uno-5cfe7bd5b6e377.6992930615601817177491.jpg" alt="sql logo" width="24">](#) 
-|---|---|---|---|---|---|---|---|
-
-- Learning
-
-| [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" alt="vue logo" width="24">](https://vuejs.org/)  | [<img src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png" alt="flutter logo" width="24">](https://flutter.dev/) |  [<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" alt="rust logo" width="24">](https://dart.dev/)|
-|---|---|---|
-
+<hr> 
 
 ### Tools 🛠️
 
@@ -82,7 +76,7 @@ You can find and get touch with me on these accounts!
   <img src="https://github.com/cartel360/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
-You can find my portfolio here https://billyokeyo.me
+You can find my portfolio here https://billy-okeyo.ntelify.app
 <!--
 **cartel360/cartel360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
