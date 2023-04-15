@@ -38,11 +38,9 @@
 <table>
 <tr>
 <td>
-  <img style="width:500px" src="https://wakatime.com/share/@cartel360/8f5f40d6-ec12-48d4-8e72-ea85d2de1d03.svg" />
+  <img style="width:1000px" src="https://wakatime.com/share/@cartel360/8f5f40d6-ec12-48d4-8e72-ea85d2de1d03.svg" />
 </td>
-<td>
-<img align="right" width="500px" src="https://github-readme-stats.vercel.app/api/wakatime?username=cartel360&theme=radical" >
-</td>
+
 </tr>
 
 </table>
