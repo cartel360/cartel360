@@ -74,7 +74,7 @@ You can find and get touch with me on these accounts!
   <img src="https://github.com/cartel360/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
-You can find my portfolio here https://billyokeyo.com
+You can find my portfolio here https://billy-okeyo.netlify.app
 <!--
 **cartel360/cartel360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
