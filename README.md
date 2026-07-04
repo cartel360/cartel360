@@ -266,7 +266,11 @@ Consistency > perfection
 ## 📝 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Database Transactions Explained: Keeping Data Correct When Things Go Wrong](https://billyokeyo.dev/posts/database-transactions-explained/)
+- [Race Conditions Explained: The Concurrency Bug Every Backend Developer Should Understand](https://billyokeyo.dev/posts/race-conditions-explained/)
+- [Idempotency Explained: Building APIs That Survive Retries](https://billyokeyo.dev/posts/idempotency-explained/)
+- [Lessons Learned from Writing My First 72 Blog Posts](https://billyokeyo.dev/posts/lessons-learned-fron-writing/)
+- [Debugging Is a Skill Nobody Teaches You](https://billyokeyo.dev/posts/debugging-is-a-skill-noone-teaches-you/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
