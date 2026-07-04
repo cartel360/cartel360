@@ -333,4 +333,3 @@ Community Builder
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer" />
 
 </div>
-```
