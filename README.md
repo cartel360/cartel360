@@ -266,11 +266,11 @@ Consistency > perfection
 ## 📝 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Distributed Locks Explained: Technologies That Implement Distributed Locks](https://billyokeyo.dev/posts/distributed-locks-explained-part-2/)
 - [Distributed Locks Explained: Coordinating Work Across Multiple Servers](https://billyokeyo.dev/posts/distributed-locks-explained/)
 - [Database Isolation Levels Explained: Choosing the Right Consistency Guarantees](https://billyokeyo.dev/posts/database-isolation-levels-part-2/)
 - [Database Isolation Levels Explained: Why Two Transactions Can See Different Data](https://billyokeyo.dev/posts/database-isolation-levels/)
 - [Database Transactions Explained: Keeping Data Correct When Things Go Wrong](https://billyokeyo.dev/posts/database-transactions-explained/)
-- [Race Conditions Explained: The Concurrency Bug Every Backend Developer Should Understand](https://billyokeyo.dev/posts/race-conditions-explained/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
