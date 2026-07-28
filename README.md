@@ -266,11 +266,11 @@ Consistency > perfection
 ## 📝 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [CQRS Explained: Separating Reads and Writes for Scalable Systems](https://billyokeyo.dev/posts/cqrs-explained/)
 - [Saga Pattern Explained: Managing Distributed Transactions Across Microservices](https://billyokeyo.dev/posts/saga-pattern-explained/)
 - [The Outbox Pattern Explained: Publishing Events Without Losing Data](https://billyokeyo.dev/posts/outbox-patterns-explained/)
 - [Distributed Locks Explained: Technologies That Implement Distributed Locks](https://billyokeyo.dev/posts/distributed-locks-explained-part-2/)
 - [Distributed Locks Explained: Coordinating Work Across Multiple Servers](https://billyokeyo.dev/posts/distributed-locks-explained/)
-- [Database Isolation Levels Explained: Choosing the Right Consistency Guarantees](https://billyokeyo.dev/posts/database-isolation-levels-part-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
