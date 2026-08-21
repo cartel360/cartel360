@@ -266,11 +266,11 @@ Consistency > perfection
 ## 📝 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Reflow and Repaint Explained: Why Some UI Updates Are Expensive](https://billyokeyo.dev/posts/reflow-and-repaint/)
 - [The Browser Rendering Pipeline Explained: From HTML to Pixels](https://billyokeyo.dev/posts/browser-rendering-pipeline/)
 - [Event-Driven Architecture Explained: Building Systems That React to Events](https://billyokeyo.dev/posts/event-driven-architecture/)
 - [CQRS Explained: Separating Reads and Writes for Scalable Systems](https://billyokeyo.dev/posts/cqrs-explained/)
 - [Saga Pattern Explained: Managing Distributed Transactions Across Microservices](https://billyokeyo.dev/posts/saga-pattern-explained/)
-- [The Outbox Pattern Explained: Publishing Events Without Losing Data](https://billyokeyo.dev/posts/outbox-patterns-explained/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
