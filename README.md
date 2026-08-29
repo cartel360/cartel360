@@ -266,11 +266,11 @@ Consistency > perfection
 ## 📝 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Client-Side Rendering vs Server-Side Rendering Explained: Where Should Your UI Be Built?](https://billyokeyo.dev/posts/csr-vs-ssr/)
 - [The JavaScript Event Loop Explained: Why Your UI Freezes](https://billyokeyo.dev/posts/javascript-event-loop/)
 - [Reflow and Repaint Explained: Why Some UI Updates Are Expensive](https://billyokeyo.dev/posts/reflow-and-repaint/)
 - [The Browser Rendering Pipeline Explained: From HTML to Pixels](https://billyokeyo.dev/posts/browser-rendering-pipeline/)
 - [Event-Driven Architecture Explained: Building Systems That React to Events](https://billyokeyo.dev/posts/event-driven-architecture/)
-- [CQRS Explained: Separating Reads and Writes for Scalable Systems](https://billyokeyo.dev/posts/cqrs-explained/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
