@@ -266,11 +266,11 @@ Consistency > perfection
 ## 📝 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Re-Renders Explained: What Actually Happens When Frontend State Changes](https://billyokeyo.dev/posts/re-renders/)
 - [State Management Explained: Why Frontend State Gets Complicated](https://billyokeyo.dev/posts/state-management/)
 - [Hydration Explained: How Server-Rendered Pages Become Interactive](https://billyokeyo.dev/posts/hydration/)
 - [Client-Side Rendering vs Server-Side Rendering Explained: Where Should Your UI Be Built?](https://billyokeyo.dev/posts/csr-vs-ssr/)
 - [The JavaScript Event Loop Explained: Why Your UI Freezes](https://billyokeyo.dev/posts/javascript-event-loop/)
-- [Reflow and Repaint Explained: Why Some UI Updates Are Expensive](https://billyokeyo.dev/posts/reflow-and-repaint/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
