@@ -266,11 +266,11 @@ Consistency > perfection
 ## 📝 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Frontend Caching Explained: Making Applications Fast Without Serving Stale Data](https://billyokeyo.dev/posts/frontend-caching-explained/)
 - [Optimistic UI Explained: Making Applications Feel Instant](https://billyokeyo.dev/posts/optimistic-ui-explained/)
 - [Server State vs Client State: Why They Shouldn&#39;t Be Treated the Same](https://billyokeyo.dev/posts/server-state-client-state/)
 - [Memoization Explained: When Caching Computation Actually Helps](https://billyokeyo.dev/posts/memoization-explained/)
 - [Re-Renders Explained: What Actually Happens When Frontend State Changes](https://billyokeyo.dev/posts/re-renders/)
-- [State Management Explained: Why Frontend State Gets Complicated](https://billyokeyo.dev/posts/state-management/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
